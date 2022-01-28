@@ -38,7 +38,7 @@ I want us to do more of that, but entirely isolating the educational content fro
 ## Is the Academy free?
 Yes, free and open source. To be clear, that _does not_ mean public domain.
 
-The Academy will have costs and overhead, but like with Ludum Dare, we're better off making _someone else_ pay for it (i.e. sponsors).
+The Academy will have costs and overhead, but like with Ludum Dare, I'd rather make _someone else_ pay for it (i.e. sponsors).
 
 
 ## Why "academy"?

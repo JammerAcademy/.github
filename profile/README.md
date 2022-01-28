@@ -2,7 +2,9 @@ Welcome to the Academy!
 
 
 ## What is this?
-The **Jammer Academy** is an initiative from [Mike](https://github.com/mikekasprzak) as part of Ludum Dare. As I began reorganizing and structuring the new `ludumdare.com` website, it became clear we needed a place for education content. How to use tools, how to start making games, and what to do after making a game.
+The **Jammer Academy** is an initiative from [Mike](https://github.com/mikekasprzak) as part of Ludum Dare. 
+
+As I began reorganizing and structuring the new `ludumdare.com` website, it became clear we needed a place for education content. How to use tools, how to start making games, and what to do after making a game.
 
 Instead of letting that content get lost, burried, or overwhelm the new `ludumdare.com`, I decided to spin it off as the Jammer Academy.
 
